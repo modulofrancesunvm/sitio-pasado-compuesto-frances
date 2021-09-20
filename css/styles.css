@@ -11462,7 +11462,7 @@ p {
   margin-bottom: 1rem;
   font-style: italic;
 }
-.list-hours .list-hours-item.today {
+.list-hours .list-hours-item-title {
   font-weight: bold;
   color: #e6a756;
 }
